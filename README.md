@@ -49,6 +49,7 @@ La PCB incluye conectores, taladros de fijación, serigrafía y planos de cobre.
 Antes de fabricar la PCB, hay que revisar los Gerber en el visor del fabricante y confirmar la compatibilidad de las huellas, la colocación de los conectores y los modelos 3D.
 
 📂 Organización del repositorio
+
 Practica_Diseno_PCB/
 ├── Práctica_Diseño_PCB.kicad_pro    # Proyecto KiCad
 ├── Práctica_Diseño_PCB.kicad_sch    # Esquema principal
