@@ -8,7 +8,9 @@
   <img alt="DRC 0 errores" src="https://img.shields.io/badge/DRC-0%20errores-16803c?style=for-the-badge" />
   <img alt="Arduino Nano" src="https://img.shields.io/badge/Arduino-Nano-00878f?style=for-the-badge" />
 </p>✨ ¿De qué trata el proyecto?
-Diseño de una placa de circuito impreso (PCB) de cuatro capas con Arduino Nano, conectores de expansión y un sistema de transmisión y recepción por infrarrojos.El circuito integra un oscilador de aproximadamente 40 kHz basado en un temporizador SE555D, lógica digital para controlar las señales y una etapa emisora y receptora de infrarrojos.
+Diseño de una placa de circuito impreso (PCB) de cuatro capas con Arduino Nano, conectores de expansión y un sistema de transmisión y recepción por infrarrojos. El circuito integra un oscilador de aproximadamente 40 kHz basado en un temporizador SE555D, lógica digital para controlar las señales y una etapa emisora y receptora de infrarrojos.
+
+
 
 🔁 Diagrama de bloques
 
