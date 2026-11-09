@@ -20,21 +20,32 @@ flowchart LR
     R["Receptor IR · TSOP18440"] --> X["Lógica de recepción"]
     X -->|RX| A
 ```
-🧩 Componentes principales
+ Componentes principales
 Bloque	Componentes / función
+
 🧠 Control	Arduino Nano y conectores de expansión
+
 ⏱️ Oscilador	SE555D, señal de ~40 kHz
+
 📤 Emisor IR	LED TSAL4400 y transistor MMBT2222A
+
 📥 Receptor IR	TSOP18440
+
 🔀 Lógica digital	74LVC2G86 y 74LVC2G08
+
 ⚡ Alimentación	Redes de 5 V, 3,3 V y masa
 
 
-🎨 Diseño de la PCB
+ Diseño de la PCB
+
 Capa	Uso principal
+
 🔴 TOP	Pistas y conexiones de la cara superior
+
 🟢 GND	Plano interno de masa
+
 🟠 POWER	Distribución de alimentación
+
 🔵 BOTTOM	Pistas y conexiones de la cara inferior
 
 
