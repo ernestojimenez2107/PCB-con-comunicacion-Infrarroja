@@ -90,4 +90,4 @@ La estructura muestra los archivos principales; los nombres de las carpetas de d
 El archivo de posición de componentes se encuentra en la carpeta de montaje. La BOM y el presupuesto de 10 y 100 placas forman parte de la documentación del proyecto, cuando se incluyan en el repositorio.
 🎓 Contexto académico
 Proyecto desarrollado para una práctica de diseño de circuitos impresos de la Escuela de Ingeniería de Telecomunicación y Electrónica (EITE) de la Universidad de Las Palmas de Gran Canaria (ULPGC).
-<p align="center"><strong>🛠️ Diseñado con KiCad · 📡 Comunicación infrarroja · 🧠 Arduino Nano</strong></p>
+<p align="center"><strong>🛠️ Diseñado con KiCad </strong></p>
