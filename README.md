@@ -52,16 +52,25 @@ Antes de fabricar la PCB, hay que revisar los Gerber en el visor del fabricante 
 
 Practica_Diseno_PCB/
 ├── Práctica_Diseño_PCB.kicad_pro    # Proyecto KiCad
+
 ├── Práctica_Diseño_PCB.kicad_sch    # Esquema principal
+
 ├── Práctica_Diseño_PCB.kicad_pcb    # Diseño de la placa
+
 ├── arduino.kicad_sch               # Arduino y expansión
+
 ├── oscilador.kicad_sch             # Oscilador de 40 kHz
+
 ├── IR_Tx_Rx.kicad_sch              # Transmisor y receptor IR
+
 ├── alimentaciones.kicad_sch       # Alimentaciones
+
 ├── Fabricacion_PCB/                # Gerber y taladrado
+
 ├── Archivos de Montaje_PCB/        # Posiciones de componentes
+
 ├── Documentacion_PDF/              # PDF del esquema y la placa
-└── README.md
+
 La estructura muestra los archivos principales; los nombres de las carpetas de documentación pueden variar según la entrega.
 
 🚀 Cómo abrir el proyecto
