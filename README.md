@@ -86,19 +86,7 @@ Practica_Diseno_PCB/
 
 La estructura muestra los archivos principales; los nombres de las carpetas de documentación pueden variar según la entrega.
 
-🚀 Cómo abrir el proyecto
-1. Instala KiCad 9 o una versión compatible.
-2. Descarga o clona el repositorio.
-3. Abre Práctica_Diseño_PCB.kicad_pro.
-4. Desde el gestor de KiCad, abre el Editor de esquemas o el Editor de placas.
-5. Si utilizas bibliotecas o modelos 3D personalizados, comprueba que sus rutas sean correctas.
-🏭 Archivos de fabricación y montaje
-En Fabricacion_PCB/ se incluyen los archivos necesarios para revisar la fabricación de la placa, entre ellos:
-- Cobre: TOP, GND, POWER y BOTTOM.
-- Máscara de soldadura y serigrafía de ambas caras.
-- Pasta de soldadura superior e inferior.
-- Contorno Edge.Cuts.
-- Taladros PTH y NPTH.
+
 El archivo de posición de componentes se encuentra en la carpeta de montaje. La BOM y el presupuesto de 10 y 100 placas forman parte de la documentación del proyecto, cuando se incluyan en el repositorio.
 🎓 Contexto académico
 Proyecto desarrollado para una práctica de diseño de circuitos impresos de la Escuela de Ingeniería de Telecomunicación y Electrónica (EITE) de la Universidad de Las Palmas de Gran Canaria (ULPGC).
